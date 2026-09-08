@@ -1,5 +1,5 @@
 {
-  "name": "ahcx",
+  "name": "short-url-0lab",
   "compatibility_date": "2026-02-17",
   "assets": {
     "directory": "./dist"
@@ -8,7 +8,7 @@
     {
       "binding": "DB",
       "database_name": "ahcx-db",
-      "database_id": "1c5a6edc-9152-497d-bc6a-1bbf110152b2"
+      "database_id": "1713e455-b099-44bb-bc71-367bfacb46e4"
     }
   ]
 }
