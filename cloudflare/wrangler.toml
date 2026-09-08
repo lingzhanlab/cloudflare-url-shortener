@@ -4,5 +4,5 @@ compatibility_date = "2024-12-01"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "ahcx-db"
-database_id = "1713e455-b099-44bb-bc71-367bfacb46e4"
+database_name = "ahcx-db-new"
+database_id = "331452ff-b0bd-4785-93ed-2a1ae71b83bd"
